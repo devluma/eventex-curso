@@ -2,6 +2,6 @@
 .env
 .idea
 .wttd
-*.sqlite3
+*db.sqlite3
 *pyc
-__pychache__
+*__pychache__
